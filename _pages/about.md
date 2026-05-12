@@ -21,7 +21,7 @@ redirect_from:
 Hi, I'm a PhD student at Dalian University of Technology, fortunate to be supervised by [Prof. Heng Qi](https://faculty.dlut.edu.cn/2012015034/zh_CN/index.htm). 
 
 My research interests include Trustworthy Machine Learning, Long-tailed Learning, and Federated Learning. 
-You can reach me at 2018qyc[at]mail.dlut.edu.cn, and find my publications on <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can reach me at [2018qyc[at]mail.dlut.edu.cn](mailto:2018qyc@mail.dlut.edu.cn), and find my publications on <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
